@@ -61,7 +61,7 @@ todo-list/
 ### 前置要求
 
 - Java 17 或更高版本
-- Node.js 16 或更高版本
+- Node.js 18 或更高版本
 - Maven 3.6 或更高版本
 - Docker 和 Docker Compose（用于运行 MySQL）
 
